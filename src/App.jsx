@@ -221,7 +221,7 @@ function App() {
             <p>
               With love,
               <br />
-              <strong>PUNGOTHAI &amp; FAMILY</strong>
+              <strong>DINESH &amp; FAMILY</strong>
             </p>
           </div>
 
